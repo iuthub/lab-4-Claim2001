@@ -41,6 +41,14 @@ li {
 	min-width: 500px;
 }
 
+#shuffle
+{
+	padding-left: 0;
+	margin-bottom: 0;
+	font-size: xx-large;
+	color: red;
+	font-family: "Viner Hand ITC";
+}
 .mp3item {
 	list-style-image: url(http://www.cs.washington.edu/education/courses/cse190m/09sp/labs/3-music/mp3icon.gif);
 }
